@@ -11,4 +11,4 @@ Wine quality prediction means good or bad, so this means its a classification pr
 Machine learning Classification algorithms were used to make the prediction.
 Classification algorithm like Naive Bayes, Random Forest and Support Vector machine were used.
 The accuracy of the model was determined using confusion matrix.
-The above mentioned models provided a very good results, thus making the predictions more accurate.
+The above mentioned models provided good results, thus making the predictions more accurate.
