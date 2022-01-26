@@ -1,5 +1,5 @@
 # Wine-Quality-Prediction-Machine-Learning
-This project was done by using various data mining and machine learning techniques.
+This project was done using various data mining and machine learning techniques.
 Main purpose of this project is to provide good quality wine to customers.
 Various components of wine is used to predict the quality of wine.
 Data mining techniques were used to check whether the data provided was accurate.
